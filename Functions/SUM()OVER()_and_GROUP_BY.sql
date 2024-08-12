@@ -1,0 +1,3 @@
+SELECT COL1, COL2, SUM(VAL1)OVER(PARTITION BY COL1) FROM TABLE
+GROUP BY COL1, COL2
+--GROUP BY here is for distinct, but not for aggregation.
