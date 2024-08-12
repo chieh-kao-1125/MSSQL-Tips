@@ -4,4 +4,4 @@ This is a place to record the way to use some SQL functions and also solutions t
 
 **👉 Window Functions**
 
-👉[**Scenarios**](https://github.com/chieh-kao-1125/MSSQL-Tips/blob/main/Scenarios/)
+👉 [**Scenarios**](https://github.com/chieh-kao-1125/MSSQL-Tips/blob/main/Scenarios/)
