@@ -1,5 +1,5 @@
---Return table to the way it should be in database
---Create table first
+--Return table to the way it should be in database.
+--Create sample table first
 CREATE TABLE yourtable
 	([ItemId] int, [Year] int, [PurchasingValue] int, [SellingValue] int)
 	
